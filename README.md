@@ -1,1 +1,1 @@
-# Projects
+# Projects - Assignments for class
